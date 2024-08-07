@@ -1,4 +1,4 @@
 *.exe
 lib/
-include/
+include/SDL2/
 .vscode/

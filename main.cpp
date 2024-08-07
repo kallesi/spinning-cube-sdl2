@@ -1,5 +1,4 @@
 #include <screen.h>
-
 #include <cmath>
 
 struct vec3 {
